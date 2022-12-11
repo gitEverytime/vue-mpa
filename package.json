@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "echarts": "^4.2.0-rc.2",
     "element-ui": "^2.11.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "html-webpack-plugin": "2.16.0",
     "http-proxy-middleware": "^0.19.0",
     "iview": "^3.1.5",
